@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(105, 105, 230);
+}
+
+
+.josieHeader {
+    color: rgb(155, 42, 112);
+    
+}
+
+
+    .catstyling{
+        color: orange;
+        font-size: 40px;
+
+    }
+    img{
+        height: 300px;
+        width: 400;
+        border: 3px pink dotted;
+        margin-left: 4px;
+        margin-top: 60px;
+    }
+
+    p{
+        color: red;
+        font: 100
+    }
+    article{
+
+    }
+
+    nav ul li{
+        display: inline-block
+        margin: 20px;
+        
+
+    }
